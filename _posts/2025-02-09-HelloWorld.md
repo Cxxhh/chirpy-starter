@@ -32,7 +32,6 @@ print("Hello, World!")
 
 #### 插入图片
 ```markdown
-![示例图片](/assets/img/sample/hello-world.jpg)
 ```
 
 #### 提示信息
